@@ -1,0 +1,7 @@
+boto3>=1.26.0
+tinkoff-investments==0.2.0b116
+gspread>=6.0.0
+google-auth>=2.29.0
+supabase>=2.0.0
+postgrest>=0.13.0
+
